@@ -34,7 +34,11 @@ pip install -r requirements.txt
 1. **Run the Application:**
 
    ```bash
-   python bing_wallpaper_app.py
+   python main.py
+   ```
+   Or
+   ```bash
+   python main.pyw
    ```
 
 2. **Main Menu:**
